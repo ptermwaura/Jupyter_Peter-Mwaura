@@ -1,2 +1,2 @@
-# Jupyter_Peter-Mwaura
+# Jupyter Notebook_Peter-Mwaura
 Final Assignment
